@@ -1,0 +1,17 @@
+[
+    {
+        "id": 456,
+        "author": 123,
+        "content": "ce que je veux"
+    },
+    {
+        "id": 654,
+        "author": 321,
+        "content": "ce que les femmes veulent"
+    },
+    {
+        "id": 555,
+        "author": 777,
+        "content": "ce que la France souhaite"
+    }
+]
